@@ -3,13 +3,13 @@ tools for stitching stringmol trial information together
 
 A conpop run produces the following:
 
------------------------------------
-splitstory.dat:
+---
+##splitstory.dat:
 
 This file contains a list of all the divisions that occur. It should be possible to see the ancestry of the container-of-containers in this file.
 
------------------------------------
-popdy files:
+---
+##popdy files:
 
 a popdy file is produced for each `lifetime' in each container - i.e. from when a population is seeded into a container until when that population goes extinct. 
 
